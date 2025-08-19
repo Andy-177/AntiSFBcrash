@@ -1,4 +1,0 @@
-name: AntiSFBcrash
-version: '1.0-SNAPSHOT'
-main: paper.plugin.antiSFBcrash.AntiSFBcrash
-api-version: '1.21'
